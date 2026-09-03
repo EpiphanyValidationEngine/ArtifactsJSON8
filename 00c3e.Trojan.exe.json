@@ -1,7 +1,7 @@
 {
         "name": "00c3e.Trojan.exe",
         "versions": {
-                "attack": "16",
+                "attack": "17",
                 "navigator": "5.1.0",
                 "layer": "4.5"
         },
